@@ -1,0 +1,8 @@
+node_modules/
+*.DS_Store
+*.png
+pdf-server/web/*.pdf
+pdfs/*.pdf
+images/*.png
+images/*.jpg
+storage.txt
